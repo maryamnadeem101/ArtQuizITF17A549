@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!--All the string resources come here including Questions and title -->
+        <string name="app_name">The Oldies Art Quiz</string>
+
+    <!--Starry night -->
+        <string name="FirstQuestion">Q1: Which artist painted the above image?  \n \t</string>
+    <!--Van Gogh -->
+        <string name="SecondQuestion">Q2: Which of the following is not a Renaissance Artist?  \n \t </string>
+        <!--Louvre -->
+        <string name="ThirdQuestion">Q3: Which museum in Paris houses the Mona Lisa? \n \t </string>
+        <!--Michelangelo -->
+        <string name="FourthQuestion">Q4: The ceiling of the Sistine Chapel was painted by whom? \n \t</string>
+        <!-- Impasto -->
+        <string name="FifthQuestion">Q5: Which of the following was not a technique used by Renaissance painters?</string>
+        <!--Religious Realism-->
+        <string name="SixthQuestion">Q6: What art style is Botticelli known for?</string>
+        <!--Waterhouse -->
+        <string name="SeventhQuestion">Q7: Which artist painted the above image?</string>
+        <!--Kanagawa -->
+        <string name="EighthQuestion">Q8: Which river is depicted in the above image?</string>
+        <!-- Surrealism -->
+        <string name="NinthQuestion">Q9: What are Bosch paintings most know for?</string>
+        <!-- Surrealism -->
+        <string name="TenthQuestion">Q10: Which work is Tenmyouya Hisashi most known for in the Neo-Nihonga series?</string>
+
+
+
+
+
+  </resources>
